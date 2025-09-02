@@ -31,6 +31,7 @@
     "lint:fix": "biome check --write --no-errors-on-unmatched --assist-enabled=true"
   },
   "dependencies": {
+    "@antv/g2": "^5.4.0",
     "@radix-ui/react-dialog": "^1.1.15",
     "@radix-ui/react-separator": "^1.1.7",
     "@radix-ui/react-slot": "^1.2.3",
